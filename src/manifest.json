@@ -15,5 +15,9 @@
     "scripts": [
       "background.js"
     ]
-  }
+  },
+  "permissions": [
+    "cookies",
+    "<all_urls>"
+  ]
 }
